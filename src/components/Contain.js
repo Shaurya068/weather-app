@@ -16,7 +16,7 @@ export default function Contain(props) {
         const options = {
             method: 'GET',
             headers: {
-                'x-rapidapi-key': '25b905f292msh02b1fbca3beab88p106f1cjsna56016c0756f',
+                'x-rapidapi-key': '{/*your api key here*/}',
                 'x-rapidapi-host': 'yahoo-weather5.p.rapidapi.com'
             }
         };
